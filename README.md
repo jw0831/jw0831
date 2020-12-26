@@ -5,7 +5,7 @@
 <a href=https://www.linkedin.com/in/jinwon0831kim/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="jw0831" height="25" width="25" /></a>
 </p>
 
-## I can be Data Scientist, Robotic Engineer, Developer and be fool anytime to become a Student
+## I can be Data Scientist, Robotic Engineer, Developer and be fool anytime to become a Learner
 
 <!--
 **jw0831/jw0831** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
