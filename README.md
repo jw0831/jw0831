@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Hi there <a href="https://github.com/chloecmin"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="44px"></a></h1>
 
 <!--
 **jw0831/jw0831** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
