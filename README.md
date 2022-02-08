@@ -1,11 +1,11 @@
 <h1 align="center">Hi there <a href="https://github.com/chloecmin"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="44px"></a></h1>
 
 <p align="center">
-<a href=mailto:jinwon0831kim@gmail.com target="blank"><img align="center" src=https://www.flaticon.com/svg/static/icons/svg/561/561188.svg alt="jw0831" height="25" width="25" /></a>
 <a href=https://www.linkedin.com/in/jinwon0831kim/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="jw0831" height="25" width="25" /></a>
 </p>
 
-## I can be Data Scientist, Robotic Engineer, Developer and be fool anytime to become a Learner
+## NLP researcher, TimeSeries, Data Scientist
+- Background of Robotic Engineer and Human Anatomy
 
 <!--
 **jw0831/jw0831** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
