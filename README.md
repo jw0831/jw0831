@@ -1,7 +1,9 @@
 <h1 align="center">김진원 | KIM JIN WON</h1>
-
 <p align="center">
-  AI Agent Engineer / LLM Engineer / Data Scientist
+  <a href="https://www.linkedin.com/in/jinwon0831kim/">
+    <img src="https://img.shields.io/badge/LinkedIn-Jinwon_Kim-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <img src="https://img.shields.io/github/followers/jw0831?style=social" alt="GitHub followers">
 </p>
 
 <p align="center">
@@ -9,8 +11,22 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jinwon0831kim/">LinkedIn</a> |
-  <a href="https://github.com/jw0831">GitHub</a>
+  <strong>Core Technologies</strong>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white" alt="LangChain">
+  <img src="https://img.shields.io/badge/Neo4j-4581C3?logo=neo4j&logoColor=white" alt="Neo4j">
+</p>
+<p align="center">
+  <strong>AI Engineering</strong>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Vibe_Coding-6E56CF?logo=cursor&logoColor=white" alt="Vibe Coding">
+  <img src="https://img.shields.io/badge/Agent_Harness-2D3748?logo=githubactions&logoColor=white" alt="Agent Harness">
+  <img src="https://img.shields.io/badge/System_Architecture-0078D4?logo=diagramsdotnet&logoColor=white" alt="System Architecture">
+  <img src="https://img.shields.io/badge/Agent_Orchestration-FF6B35?logo=probot&logoColor=white" alt="Agent Orchestration">
 </p>
 
 ## About
