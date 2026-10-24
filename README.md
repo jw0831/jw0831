@@ -42,6 +42,15 @@ IP전략센터의 단독 AI 개발자로 LLM, RAG, Agent 기반 업무 자동화
 | (주)포스코퓨처엠 | IP전략센터 / 대리 | 2023.08 ~ 재직 중 |
 | (주)아일리스프런티어 | 선행연구팀 / 매니저 | 2021.03 ~ 2023.03 |
 
+## Education
+
+| School | Degree | Graduated |
+|---|---|---|
+| Asia Pacific University of Technology & Innovation (APU), Malaysia | BEng (Hons) in Mechatronic Engineering | 2019 |
+
+- Final Year Project: ROS 기반 SLAM 실내 자율주행 음식 배달 로봇 (매핑 정확도 95%)
+- 졸업 프로젝트, 과목별 보고서, 인턴십 기술 문서, 수료증: [academic-portfolio](https://github.com/jw0831/academic-portfolio)
+
 ## Impact Highlights
 
 - 80건 이상의 특허를 자동 분석하는 LangChain 기반 Supervisor-Subagent 멀티에이전트 파이프라인 구축
