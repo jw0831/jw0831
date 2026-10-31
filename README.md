@@ -37,10 +37,13 @@ IP전략센터의 단독 AI 개발자로 LLM, RAG, Agent 기반 업무 자동화
 
 ## Career
 
-| Company | Team / Role | Period |
-|---|---|---|
-| (주)포스코퓨처엠 | IP전략센터 / 대리 | 2023.08 ~ 재직 중 |
-| (주)아일리스프런티어 | 선행연구팀 / 매니저 | 2021.03 ~ 2023.03 |
+| Company | Team / Role | Period | Portfolio |
+|---|---|---|---|
+| (주)포스코퓨처엠 | IP전략센터 / 대리 | 2023.08 ~ 재직 중 | [posco-future-m-portfolio](https://github.com/jw0831/posco-future-m-portfolio) |
+| 아일리스프런티어(주) | 선행연구팀 / 매니저 | 2021.03 ~ 2023.07 | [ailys-frontier-portfolio](https://github.com/jw0831/ailys-frontier-portfolio) |
+
+- 포스코퓨처엠: 특허 분석 멀티에이전트(Deep Agents), 이차전지 온톨로지, 기술 인텔리전스 자동화, 특허 RAG 챗봇, 부서 AI 플랫폼
+- 아일리스프런티어: 특허 7건 공동 발명(등록 3건), 학술 논문 5편 공저, 119 긴급신고 NER, 44개 감정 감성분석, 금융 AI
 
 ## Education
 
@@ -58,6 +61,7 @@ IP전략센터의 단독 AI 개발자로 LLM, RAG, Agent 기반 업무 자동화
 - 프롬프트 엔지니어링만으로 음극재 특허 기술분류 정확도 76% -> 89%(+13%p) 개선
 - FastAPI 28개 API, Next.js 16 기반 9개 페이지, Streamlit 7탭, Slack 봇 5채널로 부서 AI 플랫폼 구축
 - GPT-4 출시 초기 ChatGPT + LangChain 기반 특허분석 자동화 PoC를 수행하고 LLM 특허분석 제품화 가능성 검증
+- 아일리스프런티어 재직 중 금융·문서 AI 특허 7건 공동 발명(등록 3건), 학술 논문 5편 공저
 
 ## Representative Projects
 
@@ -85,7 +89,7 @@ LMR 양극재 영역에서는 BGE-M3 임베딩, Vector DB, LLM, ReAct Agent를 �
 
 인조흑연 바인더 선행문헌 NER, 구형흑연 함침 AI 선행문헌 조사, 발명자 환산점수 프로그램 재구성, 법규 제·개정 모니터링 솔루션, 이차전지 Ontology 구축, 부서 프롬프트 자산화와 교육까지 수행했습니다.
 
-### ChatGPT + LangChain 특허분석 자동화 PoC (2023.04 ~ 2023.05)
+### ChatGPT + LangChain 특허분석 자동화 PoC, 아일리스프런티어 (2023.04 ~ 2023.05)
 
 GPT-4 출시 초기 시점에 ChatGPT와 LangChain으로 특허 요약 자동화, 주요 기술 도출, 특허 데이터 관리 툴의 개발 가능성을 PoC로 검증했습니다. 특허 문서 구조를 바탕으로 LangChain 체인을 설계하고, Hallucination 위험과 비용·속도 트레이드오프를 정량적으로 확인했습니다.
 
